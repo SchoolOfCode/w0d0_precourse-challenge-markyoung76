@@ -12,7 +12,7 @@ Hanshi Arneil sadly died earlier this year (Jan, 2021), but he was (and even in 
 
 * I can now use Markdown properly to create a better _**README**_ page than I would've done so before.
 * That there's a constant importance in refreshing my understanding towards the fundamentals of HTML, CSS and how to design a basic web page by using these skills.
-* That I'm more rusty than I thought when it comes to my use of git inside Terminal's command-line, although, it's slowly but surely coming back to me and with more practice should soon get back on track.
+* That I'm more rusty than I thought when it comes to my use of git inside Terminal's command-line, although, it's slowly but surely coming back to me and with more practice should soon get on track again.
 
 ## My reflections on the journey so far
 
