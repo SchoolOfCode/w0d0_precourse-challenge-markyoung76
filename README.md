@@ -6,17 +6,17 @@ This task was to include the HTML and CSS code we had explored within [FreeCodeC
 
 ## Why did I choose this subject?
 
-Hanshi Arneil is now sadly deceased, but he was (and even in death, still is) the highly respected founder of the BKK (British Karate Kyokushinkai) organisation. I've personally practiced and experienced over 10 years of this particular martial art, so I therefore felt it held a very relevant purpose to this exercise. Unfortunately, through injuries, I have now since had to leave martial arts behind, but I'll always be a karateka at heart!
+Hanshi Arneil sadly died earlier this year (Jan, 2021), but he was (and even in death, still is) the highly respected co-founder of the BKK (British Karate Kyokushinkai) organisation. I've personally practiced and experienced over 10 years of this particular martial art, so I therefore felt it held a very relevant individual purpose when applying it to this exercise. Unfortunately, through injuries, I have now since had to leave martial arts behind, but I'll always be a karateka at heart!
 
 ## What have I learnt during this process?
 
-* I can now use Markdown properly to create a better _**README**_ page than I ever would've done before.
+* I can now use Markdown properly to create a better _**README**_ page than I would've done so before.
 * That there's a constant importance in refreshing my understanding towards the fundamentals of HTML, CSS and how to design a basic web page by using these skills.
-* That I'm more rusty than I thought when it comes to my use of git inside the command-line of Terminal, although, this is slowly but surely coming back to me.
+* That I'm more rusty than I thought when it comes to my use of git inside Terminal's command-line, although, it's slowly but surely coming back to me and with more practice should soon get back on track.
 
 ## My reflections on the journey so far
 
-I'm loving getting back to grips with many of the things I'd previously learned during an online Udemy web development course I once worked on. I've found the School of Code Bootcamp pre-course resources and links really beneficial and in particular I enjoyed the Line Commander challenge/game. There was plenty that I hadn't realised was possible about how to use git to navigate a file structure far more efficiently. I can't wait to learn so much more during the next several months of the course!
+I'm loving getting back to grips with many of the things I'd previously learned during an online Udemy web development course I once worked on. I've found the School of Code Bootcamp pre-course resources and links really beneficial and in particular I enjoyed the Line Commander challenge game. There was plenty that I hadn't realised was possible about how to use git to navigate throughout a file structure far more efficiently. I can't wait to learn so much more during the next several months of the course!
 
 ## The user story requirements for this assignment
 _(All of the following had to be fulfilled for this piece of work to be considered complete):_  
